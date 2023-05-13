@@ -12,7 +12,7 @@
 
 ### Learning and Working With:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Discord JS" width="26px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="26px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain-wordmark.svg" style="padding-right:10px;" />
 
 <br />
 <br />
