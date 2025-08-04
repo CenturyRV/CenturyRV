@@ -5,7 +5,9 @@
 # 👋 Hi there, I'm Maxi N.
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=WWelcome%20to%20my%20GitHub%20Profile!;I%20am%20a%20passionate%20developer;Always%20learning%20new%20things&center=true&size=27" alt="Typing SVG" />
+  <h2>Welcome to my GitHub Profile!</h2>
+  <p>I am a passionate developer</p>
+  <p>Always learning new things</p>
 </div>
 
 <div align="center">
