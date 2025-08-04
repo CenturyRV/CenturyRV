@@ -32,11 +32,14 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Fun Facts
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CenturyRV&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenturyRV&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </div>
 
 ---
@@ -74,14 +77,6 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
   <a href="https://github.com/CenturyRV" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CenturyRV&repo=your-repo-name&theme=radical" alt="Featured Repository" />
 </div>
 
 ---
