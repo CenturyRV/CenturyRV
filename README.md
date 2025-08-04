@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Maxi N.
 
 <div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Always+learning+new+things&center=true&size=27" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="#"><img src="https://discord.c99.nl/widget/theme-3/432588595845398548.png" alt="Discord Status"></a>
 </div>
 
@@ -8,19 +12,22 @@
 
 ## 🚀 About Me
 
-Hey, I'm Maxi N. - a passionate developer who loves creating and learning new technologies!
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CenturyRV&theme=radical" alt="Profile Details" />
+</div>
+
+Hey, I'm Maxi N. - a passionate developer who loves creating and learning new technologies! I enjoy working on interesting projects and constantly expanding my skillset.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain-wordmark.svg" alt="Lua" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode,lua,js,html,css,git,github,mysql&theme=dark" alt="Tech Stack" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturyRV&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -28,8 +35,24 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CenturyRV&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenturyRV&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CenturyRV&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenturyRV&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CenturyRV&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CenturyRV&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -37,7 +60,7 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
 ## 🏆 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CenturyRV&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CenturyRV&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -55,6 +78,14 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
 
 ---
 
+## 🎯 Current Focus
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CenturyRV&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CenturyRV&repo=your-repo-name&theme=radical" alt="Featured Repository" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdHeader/aboutHeader.png" width="100%" />
 </div>
