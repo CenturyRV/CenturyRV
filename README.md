@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Maxi N.
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Always+learning+new+things&center=true&size=27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome%20to%20my%20GitHub%20Profile!;I'm%20a%20passionate%20developer;Always%20learning%20new%20things&center=true&size=27" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -82,5 +82,5 @@ Hey, I'm Maxi N. - a passionate developer who loves creating and learning new te
 ---
 
 <div align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdHeader/aboutHeader.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
