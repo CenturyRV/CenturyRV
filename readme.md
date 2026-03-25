@@ -18,11 +18,11 @@ const maxi = {
   role: "Coder / Developer",
   focus: ["web products", "platform features", "clean UX", "shipping fast"],
   currentWork: ["fraudify.cc", "dev.cheaterstats.cc"],
-  approach: "Build it well, keep it sharp, improve it constantly."
+  approach: "Build it right, improve it daily, and keep pushing until it feels finished."
 };
 ```
 
-I am Maxi N, a developer focused on building real products that people actually use. My current work is centered on **Fraudify** and **CheaterStats Dev**, where I handle the coding and development work behind the platform experience.
+I am Maxi N, a coder and developer focused on building products that keep getting better with every update. My current work is centered on **Fraudify** and **CheaterStats Dev**. I build the systems, features, and improvements behind both projects, with a strong focus on making the experience cleaner, stronger, and more complete over time.
 
 ---
 
@@ -38,7 +38,7 @@ I am Maxi N, a developer focused on building real products that people actually 
     </td>
     <td width="50%" valign="top">
       <h3>CheaterStats Dev</h3>
-      <p>Development work, systems, and product improvements.</p>
+      <p>The active product build. It stays on the <code>dev.</code> domain while it is being improved day by day until users and staff consider it finished.</p>
       <p><strong>Role:</strong> Coder / Developer</p>
       <p><a href="https://dev.cheaterstats.cc/">Open site</a></p>
     </td>
