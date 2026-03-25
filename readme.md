@@ -3,9 +3,9 @@
 <div align="center">
   <h3>Building products, shipping features, and turning ideas into working platforms.</h3>
   <p>
-    <a href="https://fraudify.cc/">Fraudify</a> |
-    <a href="https://dev.cheaterstats.cc/">CheaterStats Dev</a> |
-    <a href="https://github.com/CenturyRV">GitHub</a>
+    <a href="https://fraudify.cc/"><img src="https://img.shields.io/badge/Current_Work-Fraudify-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fraudify" /></a>
+    <a href="https://dev.cheaterstats.cc/"><img src="https://img.shields.io/badge/Current_Work-CheaterStats_Dev-14532d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CheaterStats Dev" /></a>
+    <a href="https://github.com/CenturyRV"><img src="https://img.shields.io/badge/GitHub-CenturyRV-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -13,9 +13,16 @@
 
 ## About
 
-I am Maxi N, a coder and developer focused on building products that improve with every update. My current work is centered on **Fraudify** and **CheaterStats Dev**, where I handle the coding, systems, features, and ongoing improvements behind the platform experience.
+```ts
+const maxi = {
+  role: "Coder / Developer",
+  focus: ["web products", "platform features", "clean UX", "shipping fast"],
+  currentWork: ["fraudify.cc", "dev.cheaterstats.cc"],
+  approach: "Build it well, keep it sharp, improve it constantly."
+};
+```
 
-**CheaterStats Dev** is the active product build. It stays on the `dev.` domain while it is being improved day by day until users and staff consider it ready.
+I am Maxi N, a developer focused on building real products that people actually use. My current work is centered on **Fraudify** and **CheaterStats Dev**, where I handle the coding and development work behind the platform experience.
 
 ---
 
@@ -31,7 +38,7 @@ I am Maxi N, a coder and developer focused on building products that improve wit
     </td>
     <td width="50%" valign="top">
       <h3>CheaterStats Dev</h3>
-      <p>The active product build. It stays on the <code>dev.</code> domain while it is being improved day by day until users and staff consider it finished.</p>
+      <p>Development work, systems, and product improvements.</p>
       <p><strong>Role:</strong> Coder / Developer</p>
       <p><a href="https://dev.cheaterstats.cc/">Open site</a></p>
     </td>
