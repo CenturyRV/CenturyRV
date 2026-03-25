@@ -4,7 +4,7 @@
   <h3>Building products, shipping features, and turning ideas into working platforms.</h3>
   <p>
     <a href="https://fraudify.cc/"><img src="https://img.shields.io/badge/Current_Work-Fraudify-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fraudify" /></a>
-    <a href="https://dev.cheaterstats.cc/"><img src="https://img.shields.io/badge/Current_Work-CheaterStats_Dev-14532d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CheaterStats Dev" /></a>
+    <a href="https://dev.cheaterstats.cc/"><img src="https://img.shields.io/badge/Current_Work-CheaterStats_Dev-14532d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cheaterstats" /></a>
     <a href="https://github.com/CenturyRV"><img src="https://img.shields.io/badge/GitHub-CenturyRV-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
@@ -22,7 +22,7 @@ const maxi = {
 };
 ```
 
-I am Maxi N, a developer focused on building real products that people actually use. My current work is centered on **Fraudify** and **CheaterStats Dev**, where I handle the coding and development work behind the platform experience.
+I am Maxi N, a developer focused on building real products that people actually use. My current work is centered on **Fraudify** and **Cheaterstats**, where I handle the coding and development work behind the platform experience.
 
 ---
 
@@ -37,7 +37,7 @@ I am Maxi N, a developer focused on building real products that people actually 
       <p><a href="https://fraudify.cc/">Open site</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>CheaterStats Dev</h3>
+      <h3>Cheaterstats</h3>
       <p>Development work, systems, and product improvements.</p>
       <p><strong>Role:</strong> Coder / Developer</p>
       <p><a href="https://dev.cheaterstats.cc/">Open site</a></p>
