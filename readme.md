@@ -3,9 +3,9 @@
 <div align="center">
   <h3>Building products, shipping features, and turning ideas into working platforms.</h3>
   <p>
-    <a href="https://fraudify.cc/"><img src="https://img.shields.io/badge/Current_Work-Fraudify-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fraudify" /></a>
-    <a href="https://dev.cheaterstats.cc/"><img src="https://img.shields.io/badge/Current_Work-CheaterStats_Dev-14532d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CheaterStats Dev" /></a>
-    <a href="https://github.com/CenturyRV"><img src="https://img.shields.io/badge/GitHub-CenturyRV-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://fraudify.cc/">Fraudify</a> |
+    <a href="https://dev.cheaterstats.cc/">CheaterStats Dev</a> |
+    <a href="https://github.com/CenturyRV">GitHub</a>
   </p>
 </div>
 
@@ -13,16 +13,9 @@
 
 ## About
 
-```ts
-const maxi = {
-  role: "Coder / Developer",
-  focus: ["web products", "platform features", "clean UX", "shipping fast"],
-  currentWork: ["fraudify.cc", "dev.cheaterstats.cc"],
-  approach: "Build it right, improve it daily, and keep pushing until it feels finished."
-};
-```
+I am Maxi N, a coder and developer focused on building products that improve with every update. My current work is centered on **Fraudify** and **CheaterStats Dev**, where I handle the coding, systems, features, and ongoing improvements behind the platform experience.
 
-I am Maxi N, a coder and developer focused on building products that keep getting better with every update. My current work is centered on **Fraudify** and **CheaterStats Dev**. I build the systems, features, and improvements behind both projects, with a strong focus on making the experience cleaner, stronger, and more complete over time.
+**CheaterStats Dev** is the active product build. It stays on the `dev.` domain while it is being improved day by day until users and staff consider it ready.
 
 ---
 
