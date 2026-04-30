@@ -38,8 +38,8 @@
       <p>Link-in-bio platform for streamers and creators. Actively developed, feature-driven, and built to scale.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
       </p>
       <a href="https://fraudify.cc/">→ Open site</a>
@@ -65,7 +65,7 @@
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=lua,ts,nextjs,tailwind,mariadb,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1f9d55,100:58a6ff" width="100%" alt="divider" />
