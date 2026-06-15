@@ -71,6 +71,14 @@ The cutest Discord client mod — 350+ plugins, themes and QuickCSS.
 
 <br />
 
+<div align="center">
+
+<a href="https://github.com/KittyCord-Production/Kittycord"><img src="https://img.shields.io/badge/Kittycord-Source%20on%20GitHub-FF5FA6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Kittycord source on GitHub" /></a>
+
+</div>
+
+<br />
+
 ---
 
 <br />
