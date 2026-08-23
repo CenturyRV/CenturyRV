@@ -60,11 +60,13 @@ The cutest Discord client mod — 350+ plugins, themes and QuickCSS.
 <br />
 
 <a href="https://kittycord.dev"><img src="https://img.shields.io/badge/Live-FF5FA6?style=flat-square&labelColor=0d1117" alt="Kittycord status: live" /></a>
-<a href="https://github.com/KittyCord-Production/Kittycord"><img src="https://img.shields.io/badge/Source-FF5FA6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Kittycord source on GitHub" /></a>
+<a href="https://github.com/KittyCord-Production/Kittycord/stargazers"><img src="https://img.shields.io/github/stars/KittyCord-Production/Kittycord?style=flat-square&labelColor=0d1117&color=FF5FA6" alt="Kittycord stars" /></a>
 
 <br /><br />
 
 <a href="https://kittycord.dev"><b>Visit Kittycord →</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/KittyCord-Production/Kittycord"><b>Source</b></a>
 
 </td>
 </tr>
@@ -84,8 +86,8 @@ The cutest Discord client mod — 350+ plugins, themes and QuickCSS.
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode&theme=light" />
-    <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode&theme=dark" alt="Lua, JavaScript, HTML, CSS, MySQL, Git, GitHub, VS Code" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,lua,html,css,mysql,powershell,git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,html,css,mysql,powershell,git,github,vscode&theme=dark" alt="TypeScript, JavaScript, Lua, HTML, CSS, MySQL, PowerShell, Git, GitHub, VS Code" />
   </picture>
 </a>
 
@@ -104,20 +106,27 @@ The cutest Discord client mod — 350+ plugins, themes and QuickCSS.
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CenturyRV&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=d6336c&text_color=1f2328" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CenturyRV&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58a6ff&icon_color=FF5FA6&text_color=c9d1d9" alt="GitHub stats for CenturyRV" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturyRV&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturyRV&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages by CenturyRV" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CenturyRV&theme=github_light" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CenturyRV&theme=github_dark" alt="GitHub profile summary for CenturyRV" />
 </picture>
 
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CenturyRV&hide_border=true&background=00000000&ring=0969da&fire=d6336c&currStreakLabel=1a7f37&currStreakNum=1f2328&sideNums=1f2328&sideLabels=1f2328&dates=57606a&stroke=d0d7de" />
-  <img height="165" src="https://streak-stats.demolab.com?user=CenturyRV&hide_border=true&background=00000000&theme=github-dark-blue&ring=58a6ff&fire=FF5FA6&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak for CenturyRV" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CenturyRV&theme=github_light" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CenturyRV&theme=github_dark" alt="Commit, PR and issue stats for CenturyRV" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CenturyRV&theme=github_light" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CenturyRV&theme=github_dark" alt="Most used languages by commit for CenturyRV" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CenturyRV&theme=github_light&utcOffset=2" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CenturyRV&theme=github_dark&utcOffset=2" alt="Commit times of day for CenturyRV" />
 </picture>
 
 <br /><br />
